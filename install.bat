@@ -1,0 +1,1 @@
+.\Utilities\Shortcut.exe /F:"%systemdrive%%homepath%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" /A:C /T:".\Utilities\hotkey.exe"
